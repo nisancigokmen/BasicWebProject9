@@ -1,0 +1,53 @@
+#home {
+    margin-top: 4em;
+}
+
+#about {
+    margin-top: 4em;
+}
+
+#team {
+    margin-top: 4em;
+}
+
+#contact {
+    margin-top: 18em;
+    text-align: center;
+    background-color: #7f7f7f2f;
+    margin-bottom: 12em;
+}
+
+contact h2 {
+    margin-top: 1em;
+}
+
+#team-img {
+    margin-top: 42px;
+    padding-right: 120px;
+}
+
+form input {
+    margin-top: 21px;
+}
+
+form .tagtext {
+    width: 210px;
+}
+
+form .heighttext {
+    width: 210px;
+    height: 140px;
+}
+
+#sendButton {
+    margin-top: 32px;
+    width: 120px;
+    height: 42px;
+    background-color: #000000;
+    color: #f2f2f2;
+}
+
+#sendButton:hover {
+    background-color: #f2f2f2;
+    color: #000000;
+}

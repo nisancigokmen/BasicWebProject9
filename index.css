@@ -1,0 +1,33 @@
+body {
+    border: 0px;
+    padding: 0px;
+}
+
+#tag-menu {
+    background-color: #f2f4f1f3;
+    width: 98%;
+    height: 3em;
+    margin-left: 1em;
+    border-radius: 2em;
+}
+
+#tag-menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+#tag-menu ul li {
+    list-style: none;
+    margin-top: 0.32em;
+    font-size: 28px;
+    font-family: 'Karla', sans-serif;
+}
+
+#tag-menu ul li:hover {
+    background-color: #e0e0e0f4;
+}
+
+#tag-menu a {
+    text-decoration: none;
+    color: #000000;
+}
