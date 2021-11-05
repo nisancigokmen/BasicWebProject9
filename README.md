@@ -7,8 +7,7 @@
 ![contactpage](https://user-images.githubusercontent.com/91744618/138575064-e4c5cbba-e490-4c78-8e97-c4f62550c2ed.png)
 
 
-<h2>Please let us know your questions and comments... </h2>
-<hr>
+
 <h2> CONTACT </h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
 <hr>
