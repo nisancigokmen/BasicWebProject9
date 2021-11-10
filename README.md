@@ -14,8 +14,7 @@
 <div>
 <img src="https://media3.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e47v0zmri5hasq5op4l6oab41o68t6iqc05owkl3vtl&rid=giphy.gif&ct=g">
   
-  
-  
+ 
 
 </div><br>
 &copy; Gökmen Nişancı / Web Developer.
